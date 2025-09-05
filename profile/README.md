@@ -1,4 +1,4 @@
 # Amp Software
 Welcome to the GitHub page for Amp Software
 
-This page is currently under construction and is subject to change.
+Your life, simplified and secure. Our apps use local AI to boost productivity and provide private insights.
