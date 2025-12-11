@@ -1,4 +1,5 @@
-# Amp Software
-Welcome to the GitHub page for Amp Software
+# README
+Welcome to the GitHub repository for [Amp Software](../../../)
 
-This page is currently under construction and is subject to change.
+This repository hosts the default README below, displayed on the GitHub org page:
+* [README.md](profile/README.md)
